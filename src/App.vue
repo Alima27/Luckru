@@ -1,9 +1,9 @@
 <script setup>
-  import MyHello from './components/MyHello.vue';
+  import BtnAdd from './components/BtnAdd.vue';
 </script>
 
 <template>
-  <MyHello />
+  <BtnAdd />
   <table>
         <thead>
             <tr>
